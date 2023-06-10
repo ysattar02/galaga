@@ -1,4 +1,3 @@
-# CMSC447 Project
 
 ## Description
 
